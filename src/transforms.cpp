@@ -15,14 +15,14 @@ Matrix3x3 translate(float dx, float dy) {
 	// Part 3: Fill this in.
 
 
-	return Matrix3x3();	
+	return Matrix3x3();
 }
 
 Matrix3x3 scale(float sx, float sy) {
 	// Part 3: Fill this in.
 
 
-	return Matrix3x3();	
+	return Matrix3x3();
 }
 
 // The input argument is in degrees counterclockwise
@@ -30,7 +30,7 @@ Matrix3x3 rotate(float deg) {
 	// Part 3: Fill this in.
 
 
-	return Matrix3x3();	
+	return Matrix3x3();
 }
 
 }

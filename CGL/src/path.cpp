@@ -1,4 +1,6 @@
 #include <string>
+#include <cstdlib>
+
 using std::string;
 
 #ifdef WIN32

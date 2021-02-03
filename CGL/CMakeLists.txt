@@ -72,7 +72,6 @@ set(CGL_SOURCE
     src/quaternion.cpp
     src/complex.cpp
     src/color.cpp
-    src/spectrum.cpp
     src/osdtext.cpp
     src/osdfont.cpp
     src/viewer.cpp

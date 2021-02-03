@@ -1,3 +1,5 @@
-# Assignment 1: Rasterizer
+# Project 1: Rasterizer
 
-[Project Specs](https://cs184.eecs.berkeley.edu/su20/docs/proj1)
+> Spring 2021
+
+[Project Specs](https://cs184.eecs.berkeley.edu/sp21/docs/proj1-spec)
