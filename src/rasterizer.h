@@ -121,11 +121,6 @@ namespace CGL {
     void set_psm(PixelSampleMethod p) { psm = p; }
     void set_lsm(LevelSampleMethod l) { lsm = l; }
 
-
-    // Helper function to fill one sample
-    void fill_supersample(size_t x, size_t y, size_t s, Color c);
-
-
     // Fill a pixel, which may contain multiple samples
     void fill_pixel(size_t x, size_t y, Color c);
 
